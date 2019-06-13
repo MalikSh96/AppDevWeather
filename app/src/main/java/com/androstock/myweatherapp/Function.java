@@ -1,5 +1,6 @@
 package com.androstock.myweatherapp;
 
+
 import android.content.Context;
 import android.net.ConnectivityManager;
 import java.io.BufferedReader;
